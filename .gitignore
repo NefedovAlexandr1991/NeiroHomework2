@@ -1,0 +1,10 @@
+# created by virtualenv automatically
+.env
+.gigacode/
+.gigaide/
+.idea/
+.venv/
+Scripts/
+site-packages/
+pyvenv.cfg
+CACHEDIR.TAG

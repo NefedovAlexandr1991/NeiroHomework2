@@ -1,0 +1,191 @@
+INFO:root:������ ��� � ����������� ��������.
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ngw.devices.sberbank.ru:9443
+DEBUG:urllib3.connectionpool:https://ngw.devices.sberbank.ru:9443 "POST /api/v2/oauth HTTP/1.1" 200 1279
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.giga.chat:443
+DEBUG:urllib3.connectionpool:https://api.giga.chat:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+INFO:root:������ ��� � ����������� ��������.
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ngw.devices.sberbank.ru:9443
+DEBUG:urllib3.connectionpool:https://ngw.devices.sberbank.ru:9443 "POST /api/v2/oauth HTTP/1.1" 200 1279
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.giga.chat:443
+DEBUG:urllib3.connectionpool:https://api.giga.chat:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+INFO:root:���������� ��������
+INFO:root:Первый шаг в логировании выполнен.
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ngw.devices.sberbank.ru:9443
+DEBUG:urllib3.connectionpool:https://ngw.devices.sberbank.ru:9443 "POST /api/v2/oauth HTTP/1.1" 200 1279
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.giga.chat:443
+DEBUG:urllib3.connectionpool:https://api.giga.chat:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+INFO:root:Завершение операции
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ngw.devices.sberbank.ru:9443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ngw.devices.sberbank.ru:9443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ngw.devices.sberbank.ru:9443
+DEBUG:urllib3.connectionpool:https://ngw.devices.sberbank.ru:9443 "POST /api/v2/oauth HTTP/1.1" 200 1279
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.giga.chat:443
+DEBUG:urllib3.connectionpool:https://api.giga.chat:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+INFO:root:Завершение операции
+INFO:root:Первый шаг в логировании выполнен.
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ngw.devices.sberbank.ru:9443
+DEBUG:urllib3.connectionpool:https://ngw.devices.sberbank.ru:9443 "POST /api/v2/oauth HTTP/1.1" 200 1279
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.giga.chat:443
+DEBUG:urllib3.connectionpool:https://api.giga.chat:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+INFO:root:Завершение операции
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ngw.devices.sberbank.ru:9443
+DEBUG:urllib3.connectionpool:https://ngw.devices.sberbank.ru:9443 "POST /api/v2/oauth HTTP/1.1" 200 1279
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.giga.chat:443
+DEBUG:urllib3.connectionpool:https://api.giga.chat:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+INFO:root:Завершение операции
+INFO:root:Первый шаг в логировании выполнен.
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ngw.devices.sberbank.ru:9443
+DEBUG:urllib3.connectionpool:https://ngw.devices.sberbank.ru:9443 "POST /api/v2/oauth HTTP/1.1" 200 1279
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.giga.chat:443
+DEBUG:urllib3.connectionpool:https://api.giga.chat:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+INFO:root:Завершение операции
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ngw.devices.sberbank.ru:9443
+DEBUG:urllib3.connectionpool:https://ngw.devices.sberbank.ru:9443 "POST /api/v2/oauth HTTP/1.1" 200 1279
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.giga.chat:443
+DEBUG:urllib3.connectionpool:https://api.giga.chat:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+INFO:root:Завершение операции
+INFO:root:Первый шаг в логировании выполнен.
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ngw.devices.sberbank.ru:9443
+DEBUG:urllib3.connectionpool:https://ngw.devices.sberbank.ru:9443 "POST /api/v2/oauth HTTP/1.1" 200 1279
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.giga.chat:443
+DEBUG:urllib3.connectionpool:https://api.giga.chat:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+INFO:root:Завершение операции
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ngw.devices.sberbank.ru:9443
+DEBUG:urllib3.connectionpool:https://ngw.devices.sberbank.ru:9443 "POST /api/v2/oauth HTTP/1.1" 200 1279
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.giga.chat:443
+DEBUG:urllib3.connectionpool:https://api.giga.chat:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+INFO:root:Завершение операции
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ngw.devices.sberbank.ru:9443
+DEBUG:urllib3.connectionpool:https://ngw.devices.sberbank.ru:9443 "POST /api/v2/oauth HTTP/1.1" 200 1279
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.giga.chat:443
+DEBUG:urllib3.connectionpool:https://api.giga.chat:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+INFO:root:Завершение операции
+INFO:root:Первый шаг в логировании выполнен.
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ngw.devices.sberbank.ru:9443
+DEBUG:urllib3.connectionpool:https://ngw.devices.sberbank.ru:9443 "POST /api/v2/oauth HTTP/1.1" 200 1279
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.giga.chat:443
+DEBUG:urllib3.connectionpool:https://api.giga.chat:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+INFO:root:Завершение операции
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ngw.devices.sberbank.ru:9443
+ERROR:root:Connection error: HTTPSConnectionPool(host='ngw.devices.sberbank.ru', port=9443): Max retries exceeded with url: /api/v2/oauth (Caused by NameResolutionError("HTTPSConnection(host='ngw.devices.sberbank.ru', port=9443): Failed to resolve 'ngw.devices.sberbank.ru' ([Errno 11001] getaddrinfo failed)")) - Проверьте доступность сервера
+INFO:root:Завершение операции
+INFO:root:Первый шаг в логировании выполнен.
+DEBUG:asyncio:Using proactor: IocpProactor
+INFO:root:Первый шаг в логировании выполнен.
+DEBUG:asyncio:Using proactor: IocpProactor
+INFO:root:Первый шаг в логировании выполнен.
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ngw.devices.sberbank.ru:9443
+DEBUG:urllib3.connectionpool:https://ngw.devices.sberbank.ru:9443 "POST /api/v2/oauth HTTP/1.1" 200 1279
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.giga.chat:443
+DEBUG:urllib3.connectionpool:https://api.giga.chat:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+INFO:root:Завершение операции
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ngw.devices.sberbank.ru:9443
+ERROR:root:Connection error: HTTPSConnectionPool(host='ngw.devices.sberbank.ru', port=9443): Max retries exceeded with url: /api/v2/oauth (Caused by NameResolutionError("HTTPSConnection(host='ngw.devices.sberbank.ru', port=9443): Failed to resolve 'ngw.devices.sberbank.ru' ([Errno 11001] getaddrinfo failed)")) - Проверьте доступность сервера
+INFO:root:Завершение операции
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ngw.devices.sberbank.ru:9443
+ERROR:root:Connection error: HTTPSConnectionPool(host='ngw.devices.sberbank.ru', port=9443): Max retries exceeded with url: /api/v2/oauth (Caused by NameResolutionError("HTTPSConnection(host='ngw.devices.sberbank.ru', port=9443): Failed to resolve 'ngw.devices.sberbank.ru' ([Errno 11001] getaddrinfo failed)")) - Проверьте доступность сервера
+INFO:root:Завершение операции
+INFO:root:Первый шаг в логировании выполнен.
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ngw.devices.sberbank.ru:9443
+DEBUG:urllib3.connectionpool:https://ngw.devices.sberbank.ru:9443 "POST /api/v2/oauth HTTP/1.1" 200 1279
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.giga.chat:443
+DEBUG:urllib3.connectionpool:https://api.giga.chat:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+INFO:root:Завершение операции
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ngw.devices.sberbank.ru:9443
+ERROR:root:Connection error: HTTPSConnectionPool(host='ngw.devices.sberbank.ru', port=9443): Max retries exceeded with url: /api/v2/oauth (Caused by NameResolutionError("HTTPSConnection(host='ngw.devices.sberbank.ru', port=9443): Failed to resolve 'ngw.devices.sberbank.ru' ([Errno 11001] getaddrinfo failed)")) - Проверьте доступность сервера
+INFO:root:Завершение операции
+INFO:root:Первый шаг в логировании выполнен.
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ngw.devices.sberbank.ru:9443
+DEBUG:urllib3.connectionpool:https://ngw.devices.sberbank.ru:9443 "POST /api/v2/oauth HTTP/1.1" 200 1279
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.giga.chat:443
+DEBUG:urllib3.connectionpool:https://api.giga.chat:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+INFO:root:Завершение операции
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ngw.devices.sberbank.ru:9443
+ERROR:root:Connection error: HTTPSConnectionPool(host='ngw.devices.sberbank.ru', port=9443): Max retries exceeded with url: /api/v2/oauth (Caused by NameResolutionError("HTTPSConnection(host='ngw.devices.sberbank.ru', port=9443): Failed to resolve 'ngw.devices.sberbank.ru' ([Errno 11001] getaddrinfo failed)")) - Проверьте доступность сервера
+INFO:root:Завершение операции
+INFO:root:Первый шаг в логировании выполнен.
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ngw.devices.sberbank.ru:9443
+DEBUG:urllib3.connectionpool:https://ngw.devices.sberbank.ru:9443 "POST /api/v2/oauth HTTP/1.1" 200 1279
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.giga.chat:443
+DEBUG:urllib3.connectionpool:https://api.giga.chat:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ngw.devices.sberbank.ru:9443
+INFO:root:Первый шаг в логировании выполнен.
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ngw.devices.sberbank.ru:9443
+INFO:root:Первый шаг в логировании выполнен.
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ngw.devices.sberbank.ru:9443
+DEBUG:urllib3.connectionpool:https://ngw.devices.sberbank.ru:9443 "POST /api/v2/oauth HTTP/1.1" 200 1279
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.giga.chat:443
+DEBUG:urllib3.connectionpool:https://api.giga.chat:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ngw.devices.sberbank.ru:9443
+INFO:root:Первый шаг в логировании выполнен.
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ngw.devices.sberbank.ru:9443
+DEBUG:urllib3.connectionpool:https://ngw.devices.sberbank.ru:9443 "POST /api/v2/oauth HTTP/1.1" 200 1279
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.giga.chat:443
+DEBUG:urllib3.connectionpool:https://api.giga.chat:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ngw.devices.sberbank.ru:9443
+DEBUG:urllib3.connectionpool:https://ngw.devices.sberbank.ru:9443 "POST /api/v2/oauth HTTP/1.1" 200 1279
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.giga.chat:443
+DEBUG:urllib3.connectionpool:https://api.giga.chat:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+INFO:root:Первый шаг в логировании выполнен.
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ngw.devices.sberbank.ru:9443
+DEBUG:urllib3.connectionpool:https://ngw.devices.sberbank.ru:9443 "POST /api/v2/oauth HTTP/1.1" 200 1279
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.giga.chat:443
+DEBUG:urllib3.connectionpool:https://api.giga.chat:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ngw.devices.sberbank.ru:9443
+DEBUG:urllib3.connectionpool:https://ngw.devices.sberbank.ru:9443 "POST /api/v2/oauth HTTP/1.1" 200 1279
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.giga.chat:443
+DEBUG:urllib3.connectionpool:https://api.giga.chat:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+INFO:root:Промпт отправлен Что делаешь?. Ответ получен Я здесь, готов общаться и помогать тебе с любыми вопросами.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ngw.devices.sberbank.ru:9443
+DEBUG:urllib3.connectionpool:https://ngw.devices.sberbank.ru:9443 "POST /api/v2/oauth HTTP/1.1" 200 1279
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.giga.chat:443
+DEBUG:urllib3.connectionpool:https://api.giga.chat:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+INFO:root:Промпт отправлен Как дела?. Ответ получен У меня всё хорошо, спасибо! Готов помочь тебе с любыми вопросами.
+INFO:root:Промпт отправлен Что делаешь?. Ответ получен Я здесь, готов общаться и помогать тебе с любыми вопросами.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ngw.devices.sberbank.ru:9443
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ngw.devices.sberbank.ru:9443
+DEBUG:urllib3.connectionpool:https://ngw.devices.sberbank.ru:9443 "POST /api/v2/oauth HTTP/1.1" 200 1279
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.giga.chat:443
+DEBUG:urllib3.connectionpool:https://api.giga.chat:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+INFO:root:Промпт отправлен Что нового?. Ответ получен Ничего особенного, просто обычный день. А у тебя как дела?
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ngw.devices.sberbank.ru:9443
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ngw.devices.sberbank.ru:9443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ngw.devices.sberbank.ru:9443
+DEBUG:urllib3.connectionpool:https://ngw.devices.sberbank.ru:9443 "POST /api/v2/oauth HTTP/1.1" 200 1279
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.giga.chat:443
+DEBUG:urllib3.connectionpool:https://api.giga.chat:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+INFO:root:Промпт отправлен Какая погода в Москве?. Ответ получен У меня нет доступа к данным о текущей погоде. Вы можете посмотреть погоду в Москве на сайтах погодных служб, таких как Яндекс.Погода, Gismeteo или Weather.com.
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ngw.devices.sberbank.ru:9443
+DEBUG:urllib3.connectionpool:https://ngw.devices.sberbank.ru:9443 "POST /api/v2/oauth HTTP/1.1" 200 1279
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.giga.chat:443
+DEBUG:urllib3.connectionpool:https://api.giga.chat:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ngw.devices.sberbank.ru:9443
+DEBUG:urllib3.connectionpool:https://ngw.devices.sberbank.ru:9443 "POST /api/v2/oauth HTTP/1.1" 200 1279
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.giga.chat:443
+DEBUG:urllib3.connectionpool:https://api.giga.chat:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+INFO:root:Промпт отправлен Какая погода в Москве?. Ответ получен У меня нет доступа к данным о текущей погоде. Вы можете уточнить этот вопрос на сайтах погодных служб, таких как Яндекс.Погода, Гисметео или посмотреть в любом мобильном приложении о погоде.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ngw.devices.sberbank.ru:9443
+DEBUG:urllib3.connectionpool:https://ngw.devices.sberbank.ru:9443 "POST /api/v2/oauth HTTP/1.1" 200 1279
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.giga.chat:443
+DEBUG:urllib3.connectionpool:https://api.giga.chat:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+INFO:root:Промпт отправлен Сколько лет живут черепахи?. Ответ получен Продолжительность жизни черепах зависит от их вида. Морские черепахи обычно живут около 30-50 лет, сухопутные — 50-100 лет, а некоторые крупные виды, например, гигантская слоновая черепаха, могут доживать до 150 лет и даже дольше.
